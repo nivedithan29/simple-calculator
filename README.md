@@ -8,7 +8,7 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
 ##  Features
 - Simple and clean interface  
 - Works instantly in any browser  
-- Easy-to-understand code — perfect for beginners  
+- Easy-to-understand code   
 - Clear (C) and Delete (DEL) buttons  
 
 ---
@@ -36,5 +36,5 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
 
 ---
 
-👩🏻‍💻 **Created by Niveditha **
+👩🏻‍💻 **Created by Niveditha**
 
