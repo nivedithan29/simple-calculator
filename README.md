@@ -35,7 +35,6 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
 |-- screenshot.png # Screenshot of the calculator
 
 ---
-----
 
 👩🏻‍💻 **Created by Niveditha**
 
