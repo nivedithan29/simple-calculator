@@ -6,10 +6,19 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
 ---
 
 ##  Features
+
 - Simple and clean interface  
 - Works instantly in any browser  
 - Easy-to-understand code   
 - Clear (C) and Delete (DEL) buttons  
+
+---
+
+## Techonology
+
+- HTML
+- CSS
+- JavaScript
 
 ---
 
@@ -20,19 +29,12 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
 
 ---
 
-##  Preview
-
-![Calculator Screenshot](screenshot.png)
-
----
-
 ##  Project Structure
 
-|-- index.html # Main HTML file
-|-- style.css # Styling for calculator
-|-- script.js # JavaScript logic
-|-- README.md # Project documentation
-|-- screenshot.png # Screenshot of the calculator
+|-- index.html        # Main HTML file
+|-- style.css         # Styling for calculator
+|-- script.js         # JavaScript logic
+|-- README.md         # Project documentation
 
 ---
 
