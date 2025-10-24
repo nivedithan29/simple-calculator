@@ -36,7 +36,5 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
 |-- script.js         # JavaScript logic
 |-- README.md         # Project documentation
 
----
 
-👩🏻‍💻 **Created by Niveditha**
 
