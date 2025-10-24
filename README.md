@@ -7,7 +7,7 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
 
 ##  Features
 
-- Simple and clean interface  
+- Simple and clean interface 
 - Works instantly in any browser  
 - Easy-to-understand code   
 - Clear (C) and Delete (DEL) buttons  
